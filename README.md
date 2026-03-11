@@ -9,6 +9,11 @@ https://dineshkorukonda.in/blogs
 For freelance inquiries, you can reach me at:
 hello@dineshkorukonda.in
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=dineshkorukonda&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshkorukonda&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
 
 ## Projects
 
