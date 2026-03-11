@@ -19,11 +19,9 @@ hello@dineshkorukonda.in
 
 - [monix](https://github.com/dineshkorukonda/monix) — A lightweight host-based IDS/IPS for Linux
 - [ShellX](https://github.com/dineshkorukonda/ShellX) — A programmable command environment
-- [Helderlig](https://github.com/dineshkorukonda/Helderlig) — Personal portfolio site
-- [Kino2.O](https://github.com/dineshkorukonda/Kino2.O) — Film platform built with Next.js
 - [MacMonitor](https://github.com/dineshkorukonda/MacMonitor) — macOS CPU and RAM monitoring system
-- [commeta](https://github.com/dineshkorukonda/commeta) — Git CLI tool that helps with commits
-- [Relax-Terminal](https://github.com/dineshkorukonda/Relax-Terminal) — Terminal-based relaxation tool
+- [VersionGate](https://github.com/versiongate-labs/VersionGate) — self hosted deployment tool
+and more
 
 You can find more about me and my work at  
 https://dineshkorukonda.in
