@@ -10,18 +10,8 @@ For freelance inquiries, you can reach me at:
 hello@dineshkorukonda.in
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=dineshkorukonda&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshkorukonda&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
-
-
-## Projects
-
-- [monix](https://github.com/dineshkorukonda/monix) — A lightweight host-based IDS/IPS for Linux
-- [ShellX](https://github.com/dineshkorukonda/ShellX) — A programmable command environment
-- [MacMonitor](https://github.com/dineshkorukonda/MacMonitor) — macOS CPU and RAM monitoring system
-- [VersionGate](https://github.com/versiongate-labs/VersionGate) — self hosted deployment tool
-and more
 
 You can find more about me and my work at  
 https://dineshkorukonda.in
