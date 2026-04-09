@@ -9,11 +9,7 @@ https://dineshkorukonda.in/blogs
 For freelance inquiries, you can reach me at:
 hello@dineshkorukonda.in
 
-You can find more about me and my work at  
-https://dineshkorukonda.in
-
 ---
 
-GitHub: [github.com/dineshkorukonda](https://github.com/dineshkorukonda)  
 Website: [dineshkorukonda.in](https://dineshkorukonda.in)  
 Email: hello@dineshkorukonda.in
